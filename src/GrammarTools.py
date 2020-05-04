@@ -213,7 +213,7 @@ class CFGrammar:
 
 
 #Context Sensitive code below
-
+#Author: Hamid Yuksel
 class SensitiveProduction:
 
     #this will take a string as the LHS and a string as the RHS
@@ -251,7 +251,7 @@ class SensitiveProduction:
         return output
 
 
-
+#Author: Hamid Yuksel   
 class CSGrammar:
 
     #This will hold the essentials of a context sensitive grammar
@@ -379,7 +379,8 @@ class Output:
         return self.finalString
 
 
-#EXCEPTION
+#EXCEPTIONS
+#Author: Hamid Yuksel
 class ProbabilitySumError(Exception):
    """Raised when the probability weights do not total 1"""
    pass
