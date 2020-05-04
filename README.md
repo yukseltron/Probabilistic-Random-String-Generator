@@ -10,7 +10,7 @@ Kael Bosland
 
 ----------
 
-#### Summary
+#### Background
 This is our CS 4TB3 Project Repo migrated from GitLab.
 After being given a grammar `G` (context-free or context-sensitive), be able to create a random sentence `s`, or a set of sentences `S`,  based off of `G`. However there are two extensions to be added:
 
@@ -19,12 +19,15 @@ After being given a grammar `G` (context-free or context-sensitive), be able to 
 • Context information to make the output from the grammar G well-typed
 
 
-
+#### Overview
 To view the source code, see GrammarTools.py inside of the `src` folder.
 To view documentation for the code or the project poster, see GrammarTools.md inside of the `documentation` folder.
 To view our plan files, they are invidivdually inside of the `Plan` folder.
 
 However, everything is included in the `proposal.md` file if you rather have it all in one place.
+
+
+#### Navigation
 
 Inside the `src` folder: 
 - GrammarTools.py `source code`
