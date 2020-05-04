@@ -1,0 +1,13 @@
+Project Proposal: 3/3
+
+Good project, extenstive proposal. However, the proposal does not need to
+include details like testing, but should have included a sample grammar
+and a sample randomly produced output. Revise the proposal and let me know.
+
+Project Artifacts:
+
+Cleanly designed poster, however, the implementation does not take context
+dependencies into account, sentences are generated randomly, so this can't
+be used for generating simple programs with typed variables, for example.
+It also can't be used to generate natural language sentences where the noun
+and verb have to match. I suggest you try to address that.
