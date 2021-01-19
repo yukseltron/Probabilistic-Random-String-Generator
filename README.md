@@ -52,7 +52,7 @@ Inside the `Description` folder are the markdown files for:
 - insight to be gained.
 
 
-#### Grammar Tools Documentation
+# Grammar Tools Documentation
 
 ![alt text](https://www.poemhunter.com/i/poem_images/974/the-octopus.jpg "Logo Title Text 1")
 
