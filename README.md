@@ -1,4 +1,4 @@
-# Generating random sentences given a Grammar 🐙
+# A Probability-based Random String Generator 🐙
 
 ### Navigation
 
